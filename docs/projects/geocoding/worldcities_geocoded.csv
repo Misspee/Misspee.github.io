@@ -1,0 +1,21 @@
+City,Country,unique_address,Latitude,Longitude
+Harare,Zimbabwe,"Harare,Zimbabwe",-17.8567035,31.0601584
+New York,USA,"New York,USA",40.7127281,-74.0060152
+London,United Kingdom,"London,United Kingdom",51.4893335,-0.14405508452768728
+Tokyo,Japan,"Tokyo,Japan",35.6768601,139.7638947
+Paris,France,"Paris,France",48.8588897,2.3200410217200766
+Berlin,Germany,"Berlin,Germany",52.510885,13.3989367
+Sydney,Australia,"Sydney,Australia",-33.8698439,151.2082848
+Toronto,Canada,"Toronto,Canada",43.6534817,-79.3839347
+Mumbai,India,"Mumbai,India",19.054999,72.8692035
+São Paulo,Brazil,"São Paulo,Brazil",-23.5506507,-46.6333824
+Cairo,Egypt,"Cairo,Egypt",30.0443879,31.2357257
+Nairobi,Kenya,"Nairobi,Kenya",-1.2832533,36.8172449
+Moscow,Russia,"Moscow,Russia",55.625578,37.6063916
+Jakarta,Indonesia,"Jakarta,Indonesia",-6.1754049,106.827168
+Seoul,South Korea,"Seoul,South Korea",37.5666791,126.9782914
+Bangkok,Thailand,"Bangkok,Thailand",13.7524938,100.4935089
+Dubai,United Arab Emirates,"Dubai,United Arab Emirates",25.074282349999997,55.18853865430702
+Buenos Aires,Argentina,"Buenos Aires,Argentina",-34.6083696,-58.4440583
+Mexico City,Mexico,"Mexico City,Mexico",19.3207722,-99.1514677512441
+Cape Town,South Africa,"Cape Town,South Africa",-33.9288301,18.4172197
